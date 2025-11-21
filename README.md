@@ -69,10 +69,10 @@ Ellenőrzi, hogy az email cím tartalmaz-e @ karaktert és a @ után van-e pont.
 
 
 
-## Osztály(ok)
+## Osztály
 
 ### `SDSaunaBookingApp - Fő alkalmazás osztály
-)
+
 
 A teljes szauna foglalási rendszer logikáját és grafikus felületét kezeli.
 
